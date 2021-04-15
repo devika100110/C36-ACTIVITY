@@ -1,1 +1,2 @@
-# C36-ACTIVITY
+# synchronousBallMovement
+Ball moving synchronously
